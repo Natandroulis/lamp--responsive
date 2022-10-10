@@ -1,0 +1,76 @@
+
+* {
+    font-family : Oswald;
+    position: static;
+    
+}
+
+
+
+.information {
+    background-color: rgb(243, 137, 180);
+    border-radius: 15px ;
+    text-align: center;
+    width: 30%;
+    padding: 10px;
+    margin-left: 35%;
+    margin-top: 25px;
+    color: aliceblue;
+    line-height: 20px;
+}
+
+
+
+  .moldura {
+ width: 30px;
+ height: 30px;
+ margin-left: 28%;  
+ margin-top: 1%;
+}
+
+
+
+.espacoLamp {
+    
+    margin-left: 45% ;
+    margin-top:  10%;
+}
+
+button{
+    width: 80px;
+    height: 40px;
+    background-color: rgb(243, 137, 180);
+    text-align: center;
+    color: aliceblue;
+    border-radius: 10px;
+    border: none;
+}
+
+button:active {
+    background-color: rgb(241, 182, 213);
+  }
+
+
+  @media screen and (max-width:900px) {
+    .information {
+
+        border-radius: 15px ;
+        text-align: center;
+        width: 150%;
+        height: 10%;
+        padding: 10px;
+        margin-left: 20%;
+        margin-bottom: 10%;
+    }
+    
+    .moldura{
+        margin-left: 1%;
+    }
+  
+.espacoLamp {
+    display: inline-block;
+    margin-top: 50% ;
+    margin-left: 72%;
+}
+}
+
