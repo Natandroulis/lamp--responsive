@@ -11,5 +11,6 @@ Completed challenge to test competences in css and html and JS
 <img src="https://github.com/Natandroulis/lamp--responsive/blob/master/assets/screem100c.png?raw=true" height="300px" width="500px"> 
 </p>
 
-<img src="https://github.com/Natandroulis/lamp--responsive/blob/master/assets/screem100c.png?raw=true" height="300px" width="500px"> 
+<p align="center">
+<img src="https://github.com/Natandroulis/lamp--responsive/blob/master/assets/screemcellc.png?raw=true" height="350px" width="220px"> 
 </p>
